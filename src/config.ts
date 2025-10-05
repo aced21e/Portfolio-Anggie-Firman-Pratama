@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "anggiefirman02@gmail.com",
-    linkedin: "linkedin.com/in/anggie-f-89a205126",
+    linkedin: "https://www.linkedin.com/in/anggie-f-89a205126",
     twitter: "https://x.com/firman_anggie",
     github: "https://github.com/aced21e",
   },
@@ -16,21 +16,21 @@ export const siteConfig = {
     {
       name: "RevoGrocers Sales Performance Analysis",
       description:
-        "Built CTE-based pipelines in BigQuery to compute net revenue after discounts, compare volume vs. unit price, and rank buyer bases; findings show Top-5 categories drive ~60% revenue, with clear price-volume trade-offs and targeted recommendations.",
+        "Built CTE-based pipelines in BigQuery to find and show Top-5 categories drive revenue, with clear price-volume trade-offs and targeted recommendations.",
       link: "https://drive.google.com/file/d/1zbIYwh_AZhZeGsDs6MB5zUm8dOiw0FAP/view?usp=sharing",
       skills: ["SQL"],
     },
     {
       name: "RevoFinance Expense & Budget Utilization Dashboard",
       description:
-        "Built a Tableau dashboard that maps total spend, budget utilization (93.66%), seasonal spikes (Ramadan/December), and merchant concentration, then translates the patterns into practical overspend alerts and rebudgeting suggestions.",
+        "Built a Tableau dashboard then translates the patterns into practical overspend alerts and rebudgeting suggestions",
       link: "https://drive.google.com/file/d/1-4xrjRyXuXOvPwpsa974EoFnp0pf67Ok/view?usp=sharing",
       skills: ["Tableau"],
     },
     {
       name: "Tri-Risk Dashboard – Corporate Red Flag Analysis",
       description:
-        "Designed a TRPI screening model using 200+ financial indicators (2014–2018) to flag tax avoidance, accounting fraud, and distress; applying persistence (≥3/4 years) and concurrence (≥2 signals) reduced ~29% one-off noise and produced a focused Year-4 watchlist with sector-level insights.",
+        "Designed a TRPI screening model using 200+ financial indicators (2014–2018) to flag tax avoidance, accounting fraud, and distress.",
       link: "https://drive.google.com/file/d/1FhJbjSsHYaM7nh8ldTCRPNAXP5C8joz7/view?usp=sharing",
       skills: ["Excel", "Python", "Tableau"],
     },
@@ -51,9 +51,9 @@ export const siteConfig = {
       title: "Vice Coordinator",
       dateRange: "Jan 2020 - Dec 2020",
       bullets: [
-        "Led 30 tax volunteers in the annual assistance event, serving hundreds taxpayers and lifting service quality 20% while strengthening university–community ties",
-        "Guided 50+ individuals/PTs/CVs through annual tax filings, resolving 50+ cases via 1:1 and online support, boosting compliance 30%",
-        "Built and managed event teams for seminars/competitions, delivering 3 major events per year and expanding outreach 40% with targeted promotion",
+        "Led tax volunteers annual assistance event, serving hundreds taxpayers",
+        "Guided 50+ clients through annual tax filings, resolving 50+ cases via 1 on 1 and online support",
+        "Built and managed event teams for seminars/competitions and delivering 3 major events per year",
       ],
     },
     {
