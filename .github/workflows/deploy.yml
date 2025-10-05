@@ -20,8 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build with Astro
-        uses: withastro/action@v3
-        # Secara default akan build ke folder 'dist' dan upload ke Pages
+        uses: withastro/action@v3  # akan build & upload artifact Pages
 
   deploy:
     needs: build
